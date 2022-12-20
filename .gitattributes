@@ -1,0 +1,3 @@
+*.o linguist-language=C++
+*.d linguist-language=C++
+*.jpg linguist-language=C++
