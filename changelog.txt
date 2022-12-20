@@ -1,0 +1,18 @@
+target_finder 2.0:
+-Improved error detection in Filesystem_tools functions
+-Added error detection in the Logger Class
+-Added error detection for the Metadata class
+
+-Made better comments to main.cpp
+-Made better comments and cleaned up Filesystem_tools more
+-Made better comments to the Logger class and cleaned it up more
+-Made better comments to the MetadataImageReader class and cleaned it up more
+-Made better comments to the Target_Finder class and cleaned it up more
+-Made better comments to the Letter_Identifier class and cleaned it up more
+
+
+Things to improve:
+
+-continue to clean up code so it is easier to read, understand, and so that it is more professional
+
+-Make letter detection more precise and accurate
